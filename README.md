@@ -40,3 +40,6 @@ If you'd like to run the project locally:
    git clone https://github.com/thomazdiniz/click_counter.git
 
 2. open the index.html page (yeah, that's it xD)
+
+
+The reason I created this app was because I needed an app that counted the number of clicks, and when I stumbled upon one it gave me a 2 minutes ad. Yeah.  Then I thought. It shouldn't be that hard to code one from scratch right? And yeah, it took me around 30 minutes while I was talking to twitch chat. The worse part was making it responsive (which I'm not sure it is?) and working with divs. I hate css to this day.
