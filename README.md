@@ -14,6 +14,7 @@ A simple, responsive click counter application that allows users to increment, d
 ## Demo
 
 Access the live application here: [Click Counter](https://thomazdiniz.github.io/click_counter/)
+The url: https://thomazdiniz.github.io/click_counter/
 
 ## Technologies Used
 
